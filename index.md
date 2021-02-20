@@ -8,6 +8,7 @@
 |  4 |  vgr@paranoid.is  |
 
 ## my email pgp public
+***
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mJMEX8rapBMFK4EEACMEIwQBA637mNX2oVReVtEqIV7Omn6TydVM4UUXgrmCYfLd
