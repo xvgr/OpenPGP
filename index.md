@@ -1,12 +1,12 @@
  
- 
+ ##　email adderss
 | Mail  |  address  |
 | ------------ | ------------ |
 |  1 |  vgr@paranoid.email |
 |  2 |  vgr@2048.email |
 |  3 |  vgr@4096.email  |
 |  4 |  vgr@paranoid.is  |
-***
+
 ## my email pgp public
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
