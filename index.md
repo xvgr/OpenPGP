@@ -6,9 +6,9 @@
 |  2 |  vgr@2048.email |
 |  3 |  vgr@4096.email  |
 |  4 |  vgr@paranoid.is  |
-
-## my email pgp public
 ***
+## my email pgp public
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mJMEX8rapBMFK4EEACMEIwQBA637mNX2oVReVtEqIV7Omn6TydVM4UUXgrmCYfLd
