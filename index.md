@@ -8,9 +8,8 @@
 |  4 |  vgr@paranoid.is  |
 ***
 ## my email pgp public
-
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-
 mJMEX8rapBMFK4EEACMEIwQBA637mNX2oVReVtEqIV7Omn6TydVM4UUXgrmCYfLd
 m7usCZ5Pkc9i2GVQCqr31o0troBB3TU5+o6cqlrm9H/pMvkADgTcGxXFXOd6hEjy
 fxFqMwi+gfcSi2omXN66lAYVR3L9sRQ+4t4pNQIkP+PcgxHuyaC0ydnJgzrOwvun
@@ -44,7 +43,6 @@ fJskluCBCENjFTUL47XhAIYN6qEWhdHtbBn36987qcPtSgAqP2jIU2mh7fnFBS2R
 9H3EH+V5Bc4tO/8MPXHhKSOUefAFAl/K2qQCGwwACgkQPXHhKSOUefA9OQIJAWJC
 vIF5Q6K65NblZ7cpF0uD5dQP5We65LfmBwEJJqnscG4iuR/Q1jUwi5xooz2Ms01R
 6a5sGODqM19Yoo+Kt8B6AgdeipdhN2k/h6GV6f+zUdVENk5odJUZHLBQMgHQTi0R
-2mFRsrNgvR2LgyxfyGaORwrQhHGWb7LbGOPJBiAXuDicTw==
-=jpfw
+2mFRsrNgvR2LgyxfyGaORwrQhHGWb7LbGOPJBiAXuDicTw===jpfw
 -----END PGP PUBLIC KEY BLOCK-----
 ```
